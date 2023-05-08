@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabio Reis</h1>
-<h3 align="center">A brazilian developer</h3>
+<h3 align="center">A brazilian developer and designer</h3>
 <hr>
 <div align="center" >
   <a href="https://github.com/white-reis">
